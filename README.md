@@ -1,3 +1,4 @@
+![logo](https://github.com/venomanil05/venomanil05/blob/main/anil-thakuri-github-banner.gif)
 <h1 align="center">Hi 👋, I'm Anil Pal</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
