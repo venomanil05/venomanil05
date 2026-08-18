@@ -1,24 +1,199 @@
-![logo](https://github.com/venomanil05/venomanil05/blob/main/anil-thakuri-github-banner.gif)
-<h1 align="center">Hi 👋, I'm Anil Pal</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=venomanil05&label=Profile%20views&color=0e75b6&style=flat" alt="venomanil05" /> </p>
+<!--
+  GitHub Profile README for github.com/venomanil05
+  Verified against the public website and repositories on 2026-08-18.
+-->
 
-- 🌱 I’m currently learning **React,Python,Java.**
+<div align="center">
 
-- 🤝 I’m looking for help with **Frontend and backend projects**
+<h1>👋 Hi, I'm Anil Pal</h1>
 
-- 👨‍💻 All of my projects are available at [https://www.anilpal.com.np/](https://www.anilpal.com.np/)
+<h3>BSc.CSIT Student • Full-Stack Developer • Software Developer</h3>
 
-- 📫 How to reach me **anilninalianil@gmail.com**
+<p><em>I build modern web applications, explore emerging technologies, solve problems,<br/>and turn ideas into real digital experiences.</em></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<a href="https://www.anilpal.com.np/">
+  <img src="https://www.anilpal.com.np/images/meedamn.jpg" width="230" alt="Anil Pal" />
+</a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<br/><br/>
 
+<a href="https://www.anilpal.com.np/"><img src="https://img.shields.io/badge/Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<a href="https://github.com/venomanil05"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:anilpalthakuri@gmail.com"><img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
+<br/><br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=venomanil05&" alt="venomanil05" /></p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=9D7CFF&center=true&vCenter=true&width=680&height=45&lines=BSc.CSIT+Student;Full-Stack+Developer;JavaScript+%26+React+Developer;Node.js+Developer;Problem+Solver;Building+Something+Amazing..." alt="Typing animation: Anil Pal's developer roles and interests" />
+</a>
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+I'm a BSc.CSIT student from Nepal who enjoys turning ideas into practical software. I'm passionate about full-stack development, modern web technologies, and programming problems that reward curiosity. I like experimenting with creative projects, learning by building, and improving with every iteration.
+
+<div align="center">
+
+`🎓 BSc.CSIT Student` · `💻 Full-Stack Developer` · `🌐 Web Application Builder`  
+`🚀 Project-Based Learner` · `🧠 Problem Solver` · `🌱 Always Learning` · `🇳🇵 Nepal`
+
+</div>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=js,python,php,cs,html,css&theme=dark" alt="JavaScript, Python, PHP, C Sharp, HTML5, and CSS3" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap&theme=dark" alt="React, JavaScript, HTML5, CSS3, and Bootstrap" />
+
+### Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,mongodb,mysql&theme=dark" alt="Node.js, Express.js, PHP, MongoDB, and MySQL" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Git, GitHub, Visual Studio Code, and Postman" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white" alt="XAMPP" />
+
+</div>
+
+## 🚀 What I Build
+
+| Web & Backend | Product Experiences | Exploration |
+|---|---|---|
+| Full-stack web applications | E-commerce applications | AI & automation experiments |
+| REST APIs | Interactive websites | 3D & interactive web experiences |
+| Database-driven applications | Developer tools | Creative software projects |
+
+## ✦ Featured Projects
+
+### 🛍️ Nep Mart
+
+A Nepal-focused full-stack e-commerce application with a responsive storefront, customer accounts, order processing, and an administration area.
+
+**Tech:** HTML5 · CSS3 · JavaScript · PHP · MySQL/MariaDB · XAMPP
+
+<a href="https://github.com/venomanil05/nepmart"><img src="https://img.shields.io/badge/View_Repository-161B22?style=for-the-badge&logo=github&logoColor=white" alt="View Nep Mart repository" /></a>
+
+---
+
+### 🌌 Updated Portfolio
+
+A responsive personal portfolio that presents projects and technical interests alongside a collection of interactive browser experiences.
+
+**Tech:** HTML5 · CSS3 · JavaScript
+
+<a href="https://github.com/venomanil05/Updated-PortfolioOfme"><img src="https://img.shields.io/badge/View_Repository-161B22?style=for-the-badge&logo=github&logoColor=white" alt="View Updated Portfolio repository" /></a>
+<a href="https://www.anilpal.com.np/"><img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Open Updated Portfolio live demo" /></a>
+
+---
+
+### 🏗️ U-Star Engineering Website
+
+A responsive company showcase for U-Star Engineering, featuring architectural project galleries and dedicated project pages.
+
+**Tech:** HTML5 · CSS3 · JavaScript
+
+<a href="https://github.com/venomanil05/u-star"><img src="https://img.shields.io/badge/View_Repository-161B22?style=for-the-badge&logo=github&logoColor=white" alt="View U-Star repository" /></a>
+<a href="https://www.ustar.com.np/"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open U-Star live demo" /></a>
+
+---
+
+### 🧪 Fifth-Semester CSIT Labs
+
+A structured academic collection covering cryptography, design and analysis of algorithms, simulation and modeling, and web technology labs.
+
+**Tech:** C · C++ · HTML5 · CSS3 · JavaScript
+
+<a href="https://github.com/venomanil05/Lab5th-semHcoe"><img src="https://img.shields.io/badge/View_Repository-161B22?style=for-the-badge&logo=github&logoColor=white" alt="View fifth-semester lab repository" /></a>
+
+---
+
+### ⚙️ Sixth-Semester Labs
+
+A growing set of practical sixth-semester exercises for .NET programming and compiler design.
+
+**Tech:** C# · C
+
+<a href="https://github.com/venomanil05/6thsemlab"><img src="https://img.shields.io/badge/View_Repository-161B22?style=for-the-badge&logo=github&logoColor=white" alt="View sixth-semester lab repository" /></a>
+
+## 🌱 Currently Exploring
+
+<div align="center">
+
+`Advanced JavaScript` · `React` · `Node.js` · `Express.js` · `MongoDB`  
+`REST APIs` · `Full-Stack Development` · `AI & Automation` · `3D Web Experiences`
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=venomanil05&theme=tokyonight" alt="Anil Pal's GitHub contribution summary" />
+
+<br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=venomanil05&theme=tokyonight" alt="Anil Pal's GitHub stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=venomanil05&theme=tokyonight" alt="Anil Pal's most-used repository languages" />
+
+</div>
+
+## 🔥 Coding Streak
+
+<div align="center">
+
+<img width="98%" src="https://streak-stats.demolab.com?user=venomanil05&hide_border=true&background=0D1117&ring=8B5CF6&fire=38BDF8&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=7D8590&sideNums=FFFFFF&currStreakNum=FFFFFF" alt="Anil Pal's GitHub contribution streak" />
+
+</div>
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=venomanil05&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=38BDF8&area=true&hide_border=true" alt="Anil Pal's GitHub activity graph" />
+
+</div>
+
+## 🧠 Developer Philosophy
+
+<div align="center">
+
+> **Learn deeply. Build boldly. Turn every bug into a better idea.**
+
+</div>
+
+## 🌐 Let's Connect
+
+- 📧 **Email:** [anilpalthakuri@gmail.com](mailto:anilpalthakuri@gmail.com)
+- 🌐 **Website:** [anilpal.com.np](https://www.anilpal.com.np/)
+- 🐙 **GitHub:** [github.com/venomanil05](https://github.com/venomanil05)
+
+If you find something interesting here, feel free to ⭐ a repository, follow my work, or start a conversation.
+
+## 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=venomanil05&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge" alt="Profile views for venomanil05" />
+
+<br/><br/>
+
+<strong>Thanks for visiting my profile ✨</strong>
+
+<br/>
+
+<sub><code>Turning ideas into code, one project at a time.</code></sub>
+
+</div>
