@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="./assets/coding-journey-banner-v2.png" width="100%" alt="Anil inside a cinematic Python coding journey from a first script through system design, testing, deployment, and digital products" />
+<img src="coding-journey-banner-v2.png" width="100%" alt="Anil inside a cinematic Python coding journey from a first script through system design, testing, deployment, and digital products" />
 
 <br/>
 
